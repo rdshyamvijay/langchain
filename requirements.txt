@@ -1,0 +1,10 @@
+unstructured
+tiktoken
+pinecone
+langchain
+langchain-community
+pypdf
+pandas
+numpy
+python-dotenv
+sentence-transformers
