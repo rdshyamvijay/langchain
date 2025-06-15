@@ -28,7 +28,7 @@ langchain/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
+git clone https://github.com/rdshyamvijay/LangChain-RAG-OpenAI-PDFQA.git
 cd <your-repo>
 ```
 
@@ -138,4 +138,4 @@ MIT License
 
 ## Author
 
-- [Your Name](https://github.com/<your-username>)
+Shyam(https://github.com/rdshyamvijay)
